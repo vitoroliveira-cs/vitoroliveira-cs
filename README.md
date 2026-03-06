@@ -19,5 +19,5 @@ I am a Computer Science student at Una (Brazil) with a solid background in IT In
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** <a href="https://www.linkedin.com/in/vitoroliveira-cs/" target="_blank">linkedin.com/in/vitoroliveira-cs</a>
-- **Email:** <a href="mailto:vitor.oliveira.cs@gmail.com">vitor.oliveira.cs@gmail.com</a>
+- **LinkedIn:** [linkedin.com/in/vitoroliveira-cs/](https://www.linkedin.com/in/vitoroliveira-cs/)
+- **Email:** [vitor.oliveira.cs@gmail.com](vitor.oliveira.cs-gmail.com)
