@@ -18,11 +18,5 @@ I am a Computer Science student at Una (Brazil) with a solid background in IT In
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoroliveira-cs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliveira-cs&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/vitoroliveira-cs/](https://www.linkedin.com/in/vitoroliveira-cs/)
