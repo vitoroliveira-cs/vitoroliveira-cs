@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vitor Hugo! 👋
 
-<!--
-**vitoroliveira-cs/vitoroliveira-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student & Networking Technician
+I am a Computer Science student at Una (Brazil) with a solid background in IT Infrastructure and Networking (SENAI). Currently, I am pivoting my career toward **Software Engineering**, focusing on building high-quality Frontend interfaces and mastering Backend fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- 🛠️ Deepening my knowledge in **Algorithms and Data Structures**.
+- 🌐 Studying **Frontend Development** (HTML, CSS, JavaScript).
+- 🐍 Practicing **Python and C** for computer science foundations.
+- 🌍 Improving my **English** for international opportunities.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, Python (Learning), JavaScript (Next step)
+- **Infrastructure:** Computer Networking, Protocols, Hardware
+- **Tools:** VS Code, Git, GitHub, Anki
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoroliveira-cs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliveira-cs&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn:** [linkedin.com/in/vitoroliveira-cs/](https://www.linkedin.com/in/vitoroliveira-cs/)
