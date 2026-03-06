@@ -19,4 +19,4 @@ I am a Computer Science student at Una (Brazil) with a solid background in IT In
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/vitoroliveira-cs/](https://www.linkedin.com/in/vitoroliveira-cs/)
+- **LinkedIn:** https://www.linkedin.com/in/vitoroliveira-cs/
