@@ -6,9 +6,8 @@ I am a Computer Science student at Una (Brazil) with a solid background in IT In
 ---
 
 ### 🚀 What I'm working on
-- 🛠️ Deepening my knowledge in **Algorithms and Data Structures**.
-- 🌐 Studying **Frontend Development** (HTML, CSS, JavaScript).
-- 🐍 Practicing **Python and C** for computer science foundations.
+- 🛠️ Deepening my knowledge in **Algorithms and Programming**.
+- 🌐 Studying **Java** for computer science foundations.
 - 🌍 Improving my **English** for international opportunities.
 
 ### 🛠️ Tech Stack & Tools
