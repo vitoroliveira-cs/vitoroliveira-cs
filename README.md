@@ -12,9 +12,9 @@ I am a Computer Science student at Una (Brazil) with a solid background in IT In
 - 🌍 Improving my **English** for international opportunities.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** C, Python (Learning), JavaScript (Next step)
+- **Languages:** Java
 - **Infrastructure:** Computer Networking, Protocols, Hardware
-- **Tools:** VS Code, Git, GitHub, Anki
+- **Tools:** IntelliJ IDEA, GitHub
 
 ---
 
